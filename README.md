@@ -1,0 +1,2 @@
+# rotary
+encoder rotation test
