@@ -1,2 +1,2 @@
 # rotary
-encoder rotation test
+simple encoder rotation test
