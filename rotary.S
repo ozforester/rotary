@@ -86,9 +86,6 @@ INT0_vect:
 	brts ret0
         in now, PIND
 	set
-	; delay
-	; flags reset
-	; and what about statuses?
 	ret0:
 reti
 
