@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 ; avr atmega8 simple encoder test
 ; used timer1 to delay cycles
-
-=======
-; avr atmega8 encoder rotation test
->>>>>>> eb534bdf5adad66d93ec68135427115852f79433
 
 #undef  __SFR_OFFSET
 #define __SFR_OFFSET 0
