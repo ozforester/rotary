@@ -1,4 +1,4 @@
-; avr atmega8 simple encoder test
+; avr atmega8 encoder rotation test
 
 #undef  __SFR_OFFSET
 #define __SFR_OFFSET 0
